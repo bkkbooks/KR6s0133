@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0133/k/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高麗國新雕大藏校正別錄
+  edition:
+    short: k
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/K/K38/K38n1402.xml
+    old_id: K38n1402
+hash: sha256:dbbe13afd38f1e1c640e734f695c8b5000d41756a3c4eedb3145b8dba6894401
